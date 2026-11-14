@@ -1,3 +1,5 @@
+__version__ = "0.1.0"
+
 Knowledge_history = ("《战争与和平法》奠定了国际法的基础")
 knowledge_philosophy = ("哲学不能为具体科学提供解决方法")
 
