@@ -1,18 +1,24 @@
 # Sanzhong-Origin
-OBlanKEr's Python learning journey.
-# OBlanKEr's Lab
 
-Hello, I'm OBlanKEr. 
-This is a simple repository for my Python learning and logic practicing.
+OBlanKEr 的 Python 学习记录。
 
-## About Me
-- A normal high school student.
-- Currently learning basic Python (`while`, `if-else`, `try-except`).
-- Enjoy lifting weights and writing code on paper when there's no computer.
+## 关于我
 
-## What's inside?
-- `OBlanKEr_Counter`: My first basic calculator.
-- `pull_up_system.py`: A small script to track my pull-up training.
+- 一名普通高中生。
+- 正在学 Python 基础：变量、条件判断、循环、异常处理、字典。
+- 喜欢健身；没有电脑的时候，就在纸上写代码。
 
-## Log
-- *Just a rookie trying to learn something new.*
+## 仓库里有什么
+
+- `OBlanKEr_Counter.py` —— 第一个计算器。
+- `Pull-up_Counter_System.py` —— 引体向上训练记录。
+- `OBlanKEr Knowledge Engine/` —— 知识引擎，当前版本 v0.1.0。
+
+## 版本
+
+- **v0.1.0** —— 用循环和异常处理实现知识查询与添加。
+  发布页附有打包好的 exe，可直接运行。
+
+## 记录
+
+- 一个刚起步的新手，正在一点一点往前走。
